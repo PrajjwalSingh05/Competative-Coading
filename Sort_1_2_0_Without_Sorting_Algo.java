@@ -14,7 +14,7 @@ class Sort_1_2_0_Without_Sorting_Algo {
     }
 
     public static void main(String[] args) {
-        Max_And_Min_Element_Array obj=new Max_And_Min_Element_Array();
+        Sort_1_2_0_Without_Sorting_Algo obj=new Sort_1_2_0_Without_Sorting_Algo();
         int zero=0;
         int first=0;
         int two =0;

@@ -13,7 +13,7 @@ public class Negative_Element_To_One_Side {
     }
 
     public static void main(String[] args) {
-        Max_And_Min_Element_Array obj=new Max_And_Min_Element_Array();
+        Negative_Element_To_One_Side obj=new  Negative_Element_To_One_Side();
         Scanner sc=new Scanner(System.in);
         System.out.println("Number of Element to be present in the array");
         int n=sc.nextInt();
